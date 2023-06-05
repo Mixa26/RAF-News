@@ -2,17 +2,21 @@
 
 This is a university project of a full-stack website for managing news. It has a dedicated CMS for two types of users (Admin/Content-Creator). 
 Both Admins and Content-Creators can add News, Categories (which have News), update them, delete them. The difference between this two users is that Admins
-can also do these operations on Users.
-
-The back-end of this page was made using java, JAX-RS with a TomCat server. 
-The front-end was made in Vue 2 with the help of Bootstrap.
-
-Here are the corresponding pages for the CMS:
-
+can also do these operations on Users.<br>
+<br>
+Admins can also deactive certain CMS users (not other admins). <br>
+<br>
+The full documentation is in the "Web programiranje.docx" file.
+<br>
+The back-end of this page was made using java, JAX-RS with a TomCat server.<br>
+The front-end was made in Vue 2 with the help of Bootstrap.<br>
+<br>
+Here are the corresponding pages for the CMS:<br>
+<br>
 Login:
 ![login](https://github.com/Mixa26/RAF-News/assets/71144280/acabc124-f3a7-4709-96ce-314647f4b28b)
 
-Home page:
+Home page (as you can see there is a tab button for users because i've loged in with a Admin account):
 ![HomePage](https://github.com/Mixa26/RAF-News/assets/71144280/0c64bc80-1df5-4aed-a8a5-031cde28a736)
 
 Categories page:
